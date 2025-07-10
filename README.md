@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Dasari</h1>
-<h3 align="center">A passionate Data Scientist specializing in AI/ML and Large Language Models</h3>
+<h3 align="center">A passionate Sr Data Scientist specializing in Gen AI/Agentic AI and Large Language Models</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C8EBB&center=true&vCenter=true&width=435&lines=Data+Scientist+at+Piper+Sandler;Machine+Learning+Engineer;AI+%26+LLM+Specialist;Deep+Learning+Enthusiast" alt="Typing SVG" />
@@ -28,10 +28,10 @@ ai_ml = {
 **Data & Cloud**
 ```python
 tech_stack = {
-    'Languages': ['Python', 'SQL', 'Java', 'C'],
+    'Languages': ['Python', 'SQL', 'Java', 'Scala', 'R'],
     'Data Tools': ['Pandas', 'NumPy', 'Spark', 'Databricks'],
     'Cloud': ['Azure', 'GCP', 'AWS'],
-    'Databases': ['MySQL', 'Redshift', 'Snowflake', 'BigQuery']
+    'Databases': ['MySQL', 'Redshift', 'Snowflake', 'BigQuery','FAISS', 'Pinecone']
 }
 ```
 
