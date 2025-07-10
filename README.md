@@ -7,10 +7,10 @@
 
 ### 🚀 About Me
 
-I'm a Data Scientist with 5 years of experience, currently at Piper Sandler, where I:
+I'm a Sr Data Scientist with 5 years of experience, currently at Piper Sandler, where I:
 - 🤖 Build AI-driven solutions using LLMs (GPT-4, Claude, LLaMA)
 - 🔮 Develop generative AI pipelines with DALL·E 2, GANs, and Stable Diffusion
-- 🎯 Create autonomous AI agents and agentic workflows using LangChain
+- 🎯 Create autonomous AI agents and agentic workflows using LangChain and RAG
 - 📊 Reduce analyst turnaround time by 50% through LLM-powered research assistance
 - 🧠 Design and deploy machine learning solutions for financial analytics
 
@@ -87,6 +87,6 @@ analytics = {
 
 💼 **Currently**: Senior Data Scientist at Piper Sandler  
 📍 **Location**: Eden Prairie, MN  
-✨ **Open to**: Data Science & ML Engineering opportunities (F-1 OPT)  
+✨ **Open to**: Data Science & ML Engineering opportunities
 
 ⚡ **Fun fact**: I'm passionate about leveraging AI to solve real-world problems and continuously exploring cutting-edge technologies in the ML/AI space!
