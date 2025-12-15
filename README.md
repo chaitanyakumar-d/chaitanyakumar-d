@@ -1,18 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Dasari</h1>
-<h3 align="center">A passionate Sr Data Scientist specializing in Gen AI/Agentic AI and Large Language Models</h3>
+<h3 align="center">A passionate Data Scientist and AI/ML Engineeer specializing in Gen AI/Agentic AI and Large Language Models</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C8EBB&center=true&vCenter=true&width=435&lines=Data+Scientist+at+Piper+Sandler;Machine+Learning+Engineer;AI+%26+LLM+Specialist;Deep+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
-### 🚀 About Me
-
-I'm a Sr Data Scientist with 5 years of experience, currently at Piper Sandler, where I:
-- 🤖 Build AI-driven solutions using LLMs (GPT-4, Claude, LLaMA)
-- 🔮 Develop generative AI pipelines with DALL·E 2, GANs, and Stable Diffusion
-- 🎯 Create autonomous AI agents and agentic workflows using LangChain and RAG
-- 📊 Reduce analyst turnaround time by 50% through LLM-powered research assistance
-- 🧠 Design and deploy machine learning solutions for financial analytics
 
 ### 🛠️ Tech Stack
 
@@ -44,25 +36,6 @@ analytics = {
 }
 ```
 
-### 🎯 Featured Project
-
-🤖 **ChatGPT NLP Analyzer**
-- A sophisticated web-based NLP tool leveraging OpenAI's GPT-3.5 API
-- Features: Text summarization, sentiment analysis, keyword extraction
-- Tech Stack: OpenAI API, Streamlit, Python, NLP
-- [View Project](https://github.com/chaitanyakumar-d/chatgpt-nlp-analyzer)
-
-### 📚 Education & Certifications
-
-**Education**
-- 📚 M.S. in Data Analytics - Concordia University, St. Paul (2023-2024) | GPA: 3.91/4.00
-- 🎓 B.Sc. - Nizam College, Hyderabad (2017-2020)
-
-**Certifications**
-- 🏆 Machine Learning - Stanford University (Coursera)
-- 🏆 Data Science and Cloud Computing - Infosys
-- 🏆 Data Analytics - Cisco
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -85,8 +58,5 @@ analytics = {
 
 ---
 
-💼 **Currently**: Senior Data Scientist at Piper Sandler  
-📍 **Location**: Eden Prairie, MN  
-✨ **Open to**: Data Science & ML Engineering opportunities
 
 ⚡ **Fun fact**: I'm passionate about leveraging AI to solve real-world problems and continuously exploring cutting-edge technologies in the ML/AI space!
